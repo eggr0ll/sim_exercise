@@ -1,0 +1,4723 @@
+TRADING INSTRUCTIONS FOR ALL SCENARIOS
+=====================================
+
+
+
+SCENARIO: Set 0, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 47,420,000.00 notional at strike 1.0223
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+
+EXECUTE:
+  BUY 59,800,000.00 notional at strike 1.0660
+  This replaces original trades:
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+
+EXECUTE:
+  BUY 1,660,000.00 notional at strike 1.0872
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 47,420,000.00 notional at strike 1.0223
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+
+EXECUTE:
+  BUY 59,800,000.00 notional at strike 1.0660
+  This replaces original trades:
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+
+EXECUTE:
+  BUY 1,660,000.00 notional at strike 1.0872
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 62,160,000.00 notional at strike 1.0281
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+
+EXECUTE:
+  BUY 46,720,000.00 notional at strike 1.0728
+  This replaces original trades:
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 62,160,000.00 notional at strike 1.0281
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+
+EXECUTE:
+  BUY 46,720,000.00 notional at strike 1.0728
+  This replaces original trades:
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 107,220,000.00 notional at strike 1.0467
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+
+EXECUTE:
+  BUY 1,660,000.00 notional at strike 1.0872
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 107,220,000.00 notional at strike 1.0467
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+
+EXECUTE:
+  BUY 1,660,000.00 notional at strike 1.0872
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 108,880,000.00 notional at strike 1.0473
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 0, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 0:
+
+EXECUTE:
+  BUY 108,880,000.00 notional at strike 1.0473
+  This replaces original trades:
+    - 1,660,000.00 at strike 1.0035
+    - 3,480,000.00 at strike 1.0037
+    - 450,000.00 at strike 1.0054
+    - 460,000.00 at strike 1.0077
+    - 1,470,000.00 at strike 1.0095
+    - 2,060,000.00 at strike 1.0110
+    - 2,000,000.00 at strike 1.0120
+    - 5,610,000.00 at strike 1.0160
+    - 2,640,000.00 at strike 1.0173
+    - 2,330,000.00 at strike 1.0195
+    - 1,840,000.00 at strike 1.0219
+    - 4,650,000.00 at strike 1.0249
+    - 2,020,000.00 at strike 1.0289
+    - 1,310,000.00 at strike 1.0315
+    - 340,000.00 at strike 1.0323
+    - 1,130,000.00 at strike 1.0328
+    - 1,810,000.00 at strike 1.0331
+    - 5,910,000.00 at strike 1.0336
+    - 520,000.00 at strike 1.0356
+    - 4,770,000.00 at strike 1.0361
+    - 500,000.00 at strike 1.0401
+    - 460,000.00 at strike 1.0407
+    - 5,420,000.00 at strike 1.0424
+    - 2,930,000.00 at strike 1.0440
+    - 400,000.00 at strike 1.0468
+    - 1,810,000.00 at strike 1.0494
+    - 3,340,000.00 at strike 1.0523
+    - 840,000.00 at strike 1.0551
+    - 470,000.00 at strike 1.0582
+    - 1,860,000.00 at strike 1.0600
+    - 3,140,000.00 at strike 1.0633
+    - 710,000.00 at strike 1.0693
+    - 1,490,000.00 at strike 1.0698
+    - 14,190,000.00 at strike 1.0699
+    - 3,960,000.00 at strike 1.0738
+    - 2,430,000.00 at strike 1.0742
+    - 4,170,000.00 at strike 1.0749
+    - 2,700,000.00 at strike 1.0754
+    - 2,090,000.00 at strike 1.0770
+    - 4,360,000.00 at strike 1.0786
+    - 550,000.00 at strike 1.0791
+    - 1,030,000.00 at strike 1.0804
+    - 1,590,000.00 at strike 1.0818
+    - 320,000.00 at strike 1.0835
+    - 1,660,000.00 at strike 1.0872
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 36,840,000.00 notional at strike 1.0328
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+
+EXECUTE:
+  BUY 26,700,000.00 notional at strike 1.0848
+  This replaces original trades:
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 36,840,000.00 notional at strike 1.0328
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+
+EXECUTE:
+  BUY 26,700,000.00 notional at strike 1.0848
+  This replaces original trades:
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 40,350,000.00 notional at strike 1.0352
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+
+EXECUTE:
+  BUY 23,190,000.00 notional at strike 1.0884
+  This replaces original trades:
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 40,350,000.00 notional at strike 1.0352
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+
+EXECUTE:
+  BUY 23,190,000.00 notional at strike 1.0884
+  This replaces original trades:
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 44,400,000.00 notional at strike 1.0386
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+
+EXECUTE:
+  BUY 19,140,000.00 notional at strike 1.0917
+  This replaces original trades:
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 44,400,000.00 notional at strike 1.0386
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+
+EXECUTE:
+  BUY 19,140,000.00 notional at strike 1.0917
+  This replaces original trades:
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 63,540,000.00 notional at strike 1.0546
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 1, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 1:
+
+EXECUTE:
+  BUY 63,540,000.00 notional at strike 1.0546
+  This replaces original trades:
+    - 900,000.00 at strike 1.0035
+    - 500,000.00 at strike 1.0043
+    - 330,000.00 at strike 1.0107
+    - 850,000.00 at strike 1.0124
+    - 730,000.00 at strike 1.0157
+    - 5,280,000.00 at strike 1.0173
+    - 1,360,000.00 at strike 1.0242
+    - 4,500,000.00 at strike 1.0254
+    - 1,590,000.00 at strike 1.0267
+    - 1,590,000.00 at strike 1.0267
+    - 640,000.00 at strike 1.0311
+    - 2,460,000.00 at strike 1.0364
+    - 960,000.00 at strike 1.0422
+    - 2,350,000.00 at strike 1.0425
+    - 5,440,000.00 at strike 1.0450
+    - 3,690,000.00 at strike 1.0465
+    - 530,000.00 at strike 1.0490
+    - 1,010,000.00 at strike 1.0500
+    - 1,520,000.00 at strike 1.0511
+    - 660,000.00 at strike 1.0519
+    - 600,000.00 at strike 1.0577
+    - 420,000.00 at strike 1.0605
+    - 1,940,000.00 at strike 1.0618
+    - 550,000.00 at strike 1.0622
+    - 1,970,000.00 at strike 1.0706
+    - 1,230,000.00 at strike 1.0737
+    - 850,000.00 at strike 1.0755
+    - 1,090,000.00 at strike 1.0796
+    - 420,000.00 at strike 1.0799
+    - 7,310,000.00 at strike 1.0890
+    - 550,000.00 at strike 1.0902
+    - 4,400,000.00 at strike 1.0943
+    - 1,990,000.00 at strike 1.0947
+    - 2,740,000.00 at strike 1.0981
+    - 640,000.00 at strike 1.0989
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 27,120,000.00 notional at strike 1.0174
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+
+EXECUTE:
+  BUY 35,150,000.00 notional at strike 1.0723
+  This replaces original trades:
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+
+EXECUTE:
+  BUY 1,820,000.00 notional at strike 1.0969
+  This replaces original trades:
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 27,120,000.00 notional at strike 1.0174
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+
+EXECUTE:
+  BUY 35,150,000.00 notional at strike 1.0723
+  This replaces original trades:
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+
+EXECUTE:
+  BUY 1,820,000.00 notional at strike 1.0969
+  This replaces original trades:
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 28,000,000.00 notional at strike 1.0181
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+
+EXECUTE:
+  BUY 36,090,000.00 notional at strike 1.0744
+  This replaces original trades:
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 28,000,000.00 notional at strike 1.0181
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+
+EXECUTE:
+  BUY 36,090,000.00 notional at strike 1.0744
+  This replaces original trades:
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 38,070,000.00 notional at strike 1.0285
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+
+EXECUTE:
+  BUY 26,020,000.00 notional at strike 1.0809
+  This replaces original trades:
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 38,070,000.00 notional at strike 1.0285
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+
+EXECUTE:
+  BUY 26,020,000.00 notional at strike 1.0809
+  This replaces original trades:
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 64,090,000.00 notional at strike 1.0498
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 2, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 2:
+
+EXECUTE:
+  BUY 64,090,000.00 notional at strike 1.0498
+  This replaces original trades:
+    - 3,000,000.00 at strike 1.0005
+    - 270,000.00 at strike 1.0073
+    - 1,600,000.00 at strike 1.0091
+    - 710,000.00 at strike 1.0107
+    - 1,240,000.00 at strike 1.0109
+    - 4,780,000.00 at strike 1.0144
+    - 2,870,000.00 at strike 1.0145
+    - 2,770,000.00 at strike 1.0193
+    - 1,640,000.00 at strike 1.0198
+    - 3,360,000.00 at strike 1.0274
+    - 1,020,000.00 at strike 1.0278
+    - 2,030,000.00 at strike 1.0293
+    - 840,000.00 at strike 1.0308
+    - 560,000.00 at strike 1.0310
+    - 430,000.00 at strike 1.0334
+    - 880,000.00 at strike 1.0387
+    - 550,000.00 at strike 1.0484
+    - 390,000.00 at strike 1.0507
+    - 1,220,000.00 at strike 1.0550
+    - 3,420,000.00 at strike 1.0570
+    - 390,000.00 at strike 1.0589
+    - 1,430,000.00 at strike 1.0598
+    - 2,670,000.00 at strike 1.0600
+    - 2,380,000.00 at strike 1.0692
+    - 320,000.00 at strike 1.0728
+    - 1,020,000.00 at strike 1.0732
+    - 830,000.00 at strike 1.0734
+    - 910,000.00 at strike 1.0740
+    - 1,700,000.00 at strike 1.0772
+    - 4,240,000.00 at strike 1.0781
+    - 6,260,000.00 at strike 1.0809
+    - 1,140,000.00 at strike 1.0815
+    - 290,000.00 at strike 1.0817
+    - 4,620,000.00 at strike 1.0886
+    - 490,000.00 at strike 1.0903
+    - 750,000.00 at strike 1.0961
+    - 1,070,000.00 at strike 1.0975
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 43,840,000.00 notional at strike 1.0331
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+
+EXECUTE:
+  BUY 50,380,000.00 notional at strike 1.0697
+  This replaces original trades:
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+
+EXECUTE:
+  BUY 6,860,000.00 notional at strike 1.0954
+  This replaces original trades:
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 43,840,000.00 notional at strike 1.0331
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+
+EXECUTE:
+  BUY 50,380,000.00 notional at strike 1.0697
+  This replaces original trades:
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+
+EXECUTE:
+  BUY 6,860,000.00 notional at strike 1.0954
+  This replaces original trades:
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 66,560,000.00 notional at strike 1.0425
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+
+EXECUTE:
+  BUY 34,520,000.00 notional at strike 1.0808
+  This replaces original trades:
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 66,560,000.00 notional at strike 1.0425
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+
+EXECUTE:
+  BUY 34,520,000.00 notional at strike 1.0808
+  This replaces original trades:
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 95,260,000.00 notional at strike 1.0531
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+
+EXECUTE:
+  BUY 5,820,000.00 notional at strike 1.0962
+  This replaces original trades:
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 95,260,000.00 notional at strike 1.0531
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+
+EXECUTE:
+  BUY 5,820,000.00 notional at strike 1.0962
+  This replaces original trades:
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 101,080,000.00 notional at strike 1.0556
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 3, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 3:
+
+EXECUTE:
+  BUY 101,080,000.00 notional at strike 1.0556
+  This replaces original trades:
+    - 2,100,000.00 at strike 1.0007
+    - 760,000.00 at strike 1.0096
+    - 410,000.00 at strike 1.0115
+    - 2,630,000.00 at strike 1.0175
+    - 4,610,000.00 at strike 1.0202
+    - 2,470,000.00 at strike 1.0216
+    - 520,000.00 at strike 1.0305
+    - 4,890,000.00 at strike 1.0308
+    - 940,000.00 at strike 1.0309
+    - 1,210,000.00 at strike 1.0311
+    - 870,000.00 at strike 1.0360
+    - 5,800,000.00 at strike 1.0382
+    - 3,880,000.00 at strike 1.0424
+    - 1,080,000.00 at strike 1.0448
+    - 5,770,000.00 at strike 1.0465
+    - 3,470,000.00 at strike 1.0469
+    - 2,430,000.00 at strike 1.0480
+    - 290,000.00 at strike 1.0551
+    - 5,410,000.00 at strike 1.0559
+    - 1,130,000.00 at strike 1.0564
+    - 610,000.00 at strike 1.0575
+    - 3,200,000.00 at strike 1.0591
+    - 2,160,000.00 at strike 1.0593
+    - 740,000.00 at strike 1.0608
+    - 4,910,000.00 at strike 1.0609
+    - 1,730,000.00 at strike 1.0688
+    - 1,150,000.00 at strike 1.0692
+    - 1,390,000.00 at strike 1.0713
+    - 1,150,000.00 at strike 1.0734
+    - 2,280,000.00 at strike 1.0735
+    - 410,000.00 at strike 1.0751
+    - 7,480,000.00 at strike 1.0761
+    - 1,170,000.00 at strike 1.0768
+    - 6,880,000.00 at strike 1.0775
+    - 750,000.00 at strike 1.0777
+    - 1,570,000.00 at strike 1.0789
+    - 3,920,000.00 at strike 1.0800
+    - 3,920,000.00 at strike 1.0800
+    - 520,000.00 at strike 1.0809
+    - 1,040,000.00 at strike 1.0910
+    - 4,210,000.00 at strike 1.0956
+    - 1,610,000.00 at strike 1.0978
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 13,800,000.00 notional at strike 1.0202
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+
+EXECUTE:
+  BUY 17,270,000.00 notional at strike 1.0542
+  This replaces original trades:
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+
+EXECUTE:
+  BUY 22,110,000.00 notional at strike 1.0829
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 13,800,000.00 notional at strike 1.0202
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+
+EXECUTE:
+  BUY 17,270,000.00 notional at strike 1.0542
+  This replaces original trades:
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+
+EXECUTE:
+  BUY 22,110,000.00 notional at strike 1.0829
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 28,820,000.00 notional at strike 1.0368
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+
+EXECUTE:
+  BUY 24,360,000.00 notional at strike 1.0815
+  This replaces original trades:
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 28,820,000.00 notional at strike 1.0368
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+
+EXECUTE:
+  BUY 24,360,000.00 notional at strike 1.0815
+  This replaces original trades:
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 53,180,000.00 notional at strike 1.0573
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 53,180,000.00 notional at strike 1.0573
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 53,180,000.00 notional at strike 1.0573
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 4, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 4:
+
+EXECUTE:
+  BUY 53,180,000.00 notional at strike 1.0573
+  This replaces original trades:
+    - 1,300,000.00 at strike 1.0062
+    - 680,000.00 at strike 1.0105
+    - 320,000.00 at strike 1.0145
+    - 3,290,000.00 at strike 1.0163
+    - 1,500,000.00 at strike 1.0199
+    - 990,000.00 at strike 1.0209
+    - 2,830,000.00 at strike 1.0234
+    - 330,000.00 at strike 1.0263
+    - 2,560,000.00 at strike 1.0313
+    - 1,980,000.00 at strike 1.0404
+    - 2,100,000.00 at strike 1.0444
+    - 2,000,000.00 at strike 1.0484
+    - 1,140,000.00 at strike 1.0526
+    - 3,540,000.00 at strike 1.0568
+    - 2,810,000.00 at strike 1.0574
+    - 370,000.00 at strike 1.0588
+    - 1,080,000.00 at strike 1.0634
+    - 1,160,000.00 at strike 1.0679
+    - 1,160,000.00 at strike 1.0679
+    - 320,000.00 at strike 1.0718
+    - 5,490,000.00 at strike 1.0748
+    - 710,000.00 at strike 1.0763
+    - 4,080,000.00 at strike 1.0786
+    - 260,000.00 at strike 1.0789
+    - 600,000.00 at strike 1.0790
+    - 4,920,000.00 at strike 1.0865
+    - 4,930,000.00 at strike 1.0907
+    - 490,000.00 at strike 1.0933
+    - 630,000.00 at strike 1.0955
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 21,100,000.00 notional at strike 1.0117
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+
+EXECUTE:
+  BUY 30,850,000.00 notional at strike 1.0644
+  This replaces original trades:
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+
+EXECUTE:
+  BUY 9,440,000.00 notional at strike 1.0937
+  This replaces original trades:
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 21,100,000.00 notional at strike 1.0117
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+
+EXECUTE:
+  BUY 30,850,000.00 notional at strike 1.0644
+  This replaces original trades:
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+
+EXECUTE:
+  BUY 9,440,000.00 notional at strike 1.0937
+  This replaces original trades:
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 23,300,000.00 notional at strike 1.0144
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+
+EXECUTE:
+  BUY 38,090,000.00 notional at strike 1.0731
+  This replaces original trades:
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 23,300,000.00 notional at strike 1.0144
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+
+EXECUTE:
+  BUY 38,090,000.00 notional at strike 1.0731
+  This replaces original trades:
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 25,990,000.00 notional at strike 1.0185
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+
+EXECUTE:
+  BUY 35,400,000.00 notional at strike 1.0745
+  This replaces original trades:
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 25,990,000.00 notional at strike 1.0185
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+
+EXECUTE:
+  BUY 35,400,000.00 notional at strike 1.0745
+  This replaces original trades:
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 61,390,000.00 notional at strike 1.0508
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 5, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 5:
+
+EXECUTE:
+  BUY 61,390,000.00 notional at strike 1.0508
+  This replaces original trades:
+    - 3,230,000.00 at strike 1.0019
+    - 530,000.00 at strike 1.0061
+    - 1,050,000.00 at strike 1.0071
+    - 1,890,000.00 at strike 1.0073
+    - 1,450,000.00 at strike 1.0075
+    - 680,000.00 at strike 1.0099
+    - 4,570,000.00 at strike 1.0114
+    - 1,580,000.00 at strike 1.0130
+    - 2,150,000.00 at strike 1.0145
+    - 1,640,000.00 at strike 1.0201
+    - 780,000.00 at strike 1.0256
+    - 300,000.00 at strike 1.0264
+    - 630,000.00 at strike 1.0270
+    - 620,000.00 at strike 1.0275
+    - 2,200,000.00 at strike 1.0406
+    - 760,000.00 at strike 1.0530
+    - 830,000.00 at strike 1.0531
+    - 1,100,000.00 at strike 1.0548
+    - 680,000.00 at strike 1.0586
+    - 430,000.00 at strike 1.0615
+    - 300,000.00 at strike 1.0616
+    - 2,550,000.00 at strike 1.0630
+    - 3,510,000.00 at strike 1.0638
+    - 3,650,000.00 at strike 1.0639
+    - 5,810,000.00 at strike 1.0674
+    - 1,900,000.00 at strike 1.0676
+    - 3,960,000.00 at strike 1.0700
+    - 560,000.00 at strike 1.0731
+    - 2,610,000.00 at strike 1.0817
+    - 600,000.00 at strike 1.0868
+    - 780,000.00 at strike 1.0898
+    - 6,280,000.00 at strike 1.0939
+    - 960,000.00 at strike 1.0966
+    - 820,000.00 at strike 1.0976
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 35,030,000.00 notional at strike 1.0233
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+
+EXECUTE:
+  BUY 32,230,000.00 notional at strike 1.0778
+  This replaces original trades:
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+
+EXECUTE:
+  BUY 2,080,000.00 notional at strike 1.0980
+  This replaces original trades:
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 35,030,000.00 notional at strike 1.0233
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+
+EXECUTE:
+  BUY 32,230,000.00 notional at strike 1.0778
+  This replaces original trades:
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+
+EXECUTE:
+  BUY 2,080,000.00 notional at strike 1.0980
+  This replaces original trades:
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 38,450,000.00 notional at strike 1.0257
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+
+EXECUTE:
+  BUY 30,890,000.00 notional at strike 1.0821
+  This replaces original trades:
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 38,450,000.00 notional at strike 1.0257
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+
+EXECUTE:
+  BUY 30,890,000.00 notional at strike 1.0821
+  This replaces original trades:
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 43,160,000.00 notional at strike 1.0296
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+
+EXECUTE:
+  BUY 26,180,000.00 notional at strike 1.0859
+  This replaces original trades:
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 43,160,000.00 notional at strike 1.0296
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+
+EXECUTE:
+  BUY 26,180,000.00 notional at strike 1.0859
+  This replaces original trades:
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 69,340,000.00 notional at strike 1.0508
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 6, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 6:
+
+EXECUTE:
+  BUY 69,340,000.00 notional at strike 1.0508
+  This replaces original trades:
+    - 5,460,000.00 at strike 1.0010
+    - 980,000.00 at strike 1.0107
+    - 8,210,000.00 at strike 1.0184
+    - 1,670,000.00 at strike 1.0210
+    - 3,830,000.00 at strike 1.0254
+    - 960,000.00 at strike 1.0270
+    - 500,000.00 at strike 1.0277
+    - 740,000.00 at strike 1.0279
+    - 1,240,000.00 at strike 1.0289
+    - 790,000.00 at strike 1.0328
+    - 1,020,000.00 at strike 1.0333
+    - 2,290,000.00 at strike 1.0335
+    - 2,290,000.00 at strike 1.0335
+    - 690,000.00 at strike 1.0369
+    - 2,250,000.00 at strike 1.0372
+    - 1,470,000.00 at strike 1.0397
+    - 1,990,000.00 at strike 1.0419
+    - 1,430,000.00 at strike 1.0479
+    - 440,000.00 at strike 1.0534
+    - 440,000.00 at strike 1.0534
+    - 1,690,000.00 at strike 1.0590
+    - 3,020,000.00 at strike 1.0619
+    - 2,080,000.00 at strike 1.0737
+    - 1,040,000.00 at strike 1.0781
+    - 6,590,000.00 at strike 1.0814
+    - 2,150,000.00 at strike 1.0857
+    - 4,210,000.00 at strike 1.0860
+    - 1,680,000.00 at strike 1.0886
+    - 570,000.00 at strike 1.0889
+    - 4,740,000.00 at strike 1.0915
+    - 1,040,000.00 at strike 1.0919
+    - 1,570,000.00 at strike 1.0978
+    - 510,000.00 at strike 1.0986
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 33,910,000.00 notional at strike 1.0136
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+
+EXECUTE:
+  BUY 40,770,000.00 notional at strike 1.0474
+  This replaces original trades:
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+
+EXECUTE:
+  BUY 34,200,000.00 notional at strike 1.0889
+  This replaces original trades:
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 33,910,000.00 notional at strike 1.0136
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+
+EXECUTE:
+  BUY 40,770,000.00 notional at strike 1.0474
+  This replaces original trades:
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+
+EXECUTE:
+  BUY 34,200,000.00 notional at strike 1.0889
+  This replaces original trades:
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 67,860,000.00 notional at strike 1.0290
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+
+EXECUTE:
+  BUY 41,020,000.00 notional at strike 1.0844
+  This replaces original trades:
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 67,860,000.00 notional at strike 1.0290
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+
+EXECUTE:
+  BUY 41,020,000.00 notional at strike 1.0844
+  This replaces original trades:
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 74,680,000.00 notional at strike 1.0320
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+
+EXECUTE:
+  BUY 34,200,000.00 notional at strike 1.0889
+  This replaces original trades:
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 74,680,000.00 notional at strike 1.0320
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+
+EXECUTE:
+  BUY 34,200,000.00 notional at strike 1.0889
+  This replaces original trades:
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 108,880,000.00 notional at strike 1.0499
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 7, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 7:
+
+EXECUTE:
+  BUY 108,880,000.00 notional at strike 1.0499
+  This replaces original trades:
+    - 2,640,000.00 at strike 1.0007
+    - 300,000.00 at strike 1.0010
+    - 4,430,000.00 at strike 1.0036
+    - 1,650,000.00 at strike 1.0046
+    - 330,000.00 at strike 1.0049
+    - 1,880,000.00 at strike 1.0068
+    - 2,730,000.00 at strike 1.0092
+    - 1,030,000.00 at strike 1.0121
+    - 320,000.00 at strike 1.0125
+    - 4,410,000.00 at strike 1.0127
+    - 2,220,000.00 at strike 1.0166
+    - 1,200,000.00 at strike 1.0167
+    - 820,000.00 at strike 1.0178
+    - 310,000.00 at strike 1.0201
+    - 1,280,000.00 at strike 1.0217
+    - 680,000.00 at strike 1.0219
+    - 1,790,000.00 at strike 1.0259
+    - 2,890,000.00 at strike 1.0262
+    - 3,000,000.00 at strike 1.0268
+    - 2,850,000.00 at strike 1.0343
+    - 5,320,000.00 at strike 1.0369
+    - 5,470,000.00 at strike 1.0371
+    - 3,470,000.00 at strike 1.0399
+    - 3,230,000.00 at strike 1.0457
+    - 730,000.00 at strike 1.0498
+    - 760,000.00 at strike 1.0521
+    - 12,120,000.00 at strike 1.0536
+    - 2,050,000.00 at strike 1.0602
+    - 2,210,000.00 at strike 1.0612
+    - 530,000.00 at strike 1.0619
+    - 1,640,000.00 at strike 1.0647
+    - 390,000.00 at strike 1.0656
+    - 2,610,000.00 at strike 1.0751
+    - 260,000.00 at strike 1.0753
+    - 1,530,000.00 at strike 1.0758
+    - 670,000.00 at strike 1.0782
+    - 1,380,000.00 at strike 1.0787
+    - 1,060,000.00 at strike 1.0806
+    - 3,790,000.00 at strike 1.0822
+    - 1,460,000.00 at strike 1.0840
+    - 880,000.00 at strike 1.0844
+    - 250,000.00 at strike 1.0860
+    - 1,610,000.00 at strike 1.0906
+    - 1,100,000.00 at strike 1.0920
+    - 7,450,000.00 at strike 1.0930
+    - 1,860,000.00 at strike 1.0964
+    - 580,000.00 at strike 1.0965
+    - 7,710,000.00 at strike 1.0981
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 51,010,000.00 notional at strike 1.0290
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+
+EXECUTE:
+  BUY 31,870,000.00 notional at strike 1.0616
+  This replaces original trades:
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+
+EXECUTE:
+  BUY 13,820,000.00 notional at strike 1.0916
+  This replaces original trades:
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 51,010,000.00 notional at strike 1.0290
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+
+EXECUTE:
+  BUY 31,870,000.00 notional at strike 1.0616
+  This replaces original trades:
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+
+EXECUTE:
+  BUY 13,820,000.00 notional at strike 1.0916
+  This replaces original trades:
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 71,720,000.00 notional at strike 1.0365
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+
+EXECUTE:
+  BUY 24,980,000.00 notional at strike 1.0834
+  This replaces original trades:
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 71,720,000.00 notional at strike 1.0365
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+
+EXECUTE:
+  BUY 24,980,000.00 notional at strike 1.0834
+  This replaces original trades:
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 82,880,000.00 notional at strike 1.0415
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+
+EXECUTE:
+  BUY 13,820,000.00 notional at strike 1.0916
+  This replaces original trades:
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 82,880,000.00 notional at strike 1.0415
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+
+EXECUTE:
+  BUY 13,820,000.00 notional at strike 1.0916
+  This replaces original trades:
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 96,700,000.00 notional at strike 1.0487
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 8, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 8:
+
+EXECUTE:
+  BUY 96,700,000.00 notional at strike 1.0487
+  This replaces original trades:
+    - 260,000.00 at strike 1.0031
+    - 1,170,000.00 at strike 1.0059
+    - 310,000.00 at strike 1.0087
+    - 430,000.00 at strike 1.0092
+    - 560,000.00 at strike 1.0100
+    - 560,000.00 at strike 1.0100
+    - 5,080,000.00 at strike 1.0121
+    - 990,000.00 at strike 1.0127
+    - 440,000.00 at strike 1.0132
+    - 1,020,000.00 at strike 1.0171
+    - 2,330,000.00 at strike 1.0192
+    - 1,580,000.00 at strike 1.0196
+    - 290,000.00 at strike 1.0202
+    - 2,900,000.00 at strike 1.0237
+    - 2,130,000.00 at strike 1.0267
+    - 1,630,000.00 at strike 1.0283
+    - 1,610,000.00 at strike 1.0300
+    - 3,240,000.00 at strike 1.0371
+    - 3,240,000.00 at strike 1.0371
+    - 2,420,000.00 at strike 1.0380
+    - 1,550,000.00 at strike 1.0391
+    - 5,210,000.00 at strike 1.0395
+    - 310,000.00 at strike 1.0397
+    - 380,000.00 at strike 1.0405
+    - 340,000.00 at strike 1.0416
+    - 3,180,000.00 at strike 1.0424
+    - 260,000.00 at strike 1.0439
+    - 3,210,000.00 at strike 1.0477
+    - 3,500,000.00 at strike 1.0529
+    - 4,900,000.00 at strike 1.0535
+    - 400,000.00 at strike 1.0536
+    - 9,270,000.00 at strike 1.0559
+    - 1,340,000.00 at strike 1.0571
+    - 670,000.00 at strike 1.0604
+    - 630,000.00 at strike 1.0614
+    - 1,480,000.00 at strike 1.0696
+    - 1,110,000.00 at strike 1.0721
+    - 280,000.00 at strike 1.0723
+    - 2,430,000.00 at strike 1.0728
+    - 3,860,000.00 at strike 1.0739
+    - 960,000.00 at strike 1.0755
+    - 1,040,000.00 at strike 1.0780
+    - 1,030,000.00 at strike 1.0839
+    - 1,470,000.00 at strike 1.0841
+    - 2,720,000.00 at strike 1.0854
+    - 1,420,000.00 at strike 1.0883
+    - 1,580,000.00 at strike 1.0918
+    - 2,280,000.00 at strike 1.0971
+    - 3,320,000.00 at strike 1.0998
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.02, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 23,200,000.00 notional at strike 1.0059
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+
+EXECUTE:
+  BUY 40,550,000.00 notional at strike 1.0407
+  This replaces original trades:
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+
+EXECUTE:
+  BUY 38,720,000.00 notional at strike 1.0787
+  This replaces original trades:
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+
+EXECUTE:
+  BUY 4,430,000.00 notional at strike 1.0990
+  This replaces original trades:
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.02, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 23,200,000.00 notional at strike 1.0059
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+
+EXECUTE:
+  BUY 40,550,000.00 notional at strike 1.0407
+  This replaces original trades:
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+
+EXECUTE:
+  BUY 38,720,000.00 notional at strike 1.0787
+  This replaces original trades:
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+
+EXECUTE:
+  BUY 4,430,000.00 notional at strike 1.0990
+  This replaces original trades:
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.03, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 63,750,000.00 notional at strike 1.0280
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+
+EXECUTE:
+  BUY 43,150,000.00 notional at strike 1.0808
+  This replaces original trades:
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.03, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 63,750,000.00 notional at strike 1.0280
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+
+EXECUTE:
+  BUY 43,150,000.00 notional at strike 1.0808
+  This replaces original trades:
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.04, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 75,780,000.00 notional at strike 1.0342
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+
+EXECUTE:
+  BUY 31,120,000.00 notional at strike 1.0860
+  This replaces original trades:
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance 0.04, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 75,780,000.00 notional at strike 1.0342
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+
+EXECUTE:
+  BUY 31,120,000.00 notional at strike 1.0860
+  This replaces original trades:
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance None, Cost Model simple
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 106,900,000.00 notional at strike 1.0493
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================
+
+
+SCENARIO: Set 9, Max Distance None, Cost Model complex
+--------------------------------------------------------------------------------
+
+TRADING INSTRUCTIONS:
+--------------------
+
+SET 9:
+
+EXECUTE:
+  BUY 106,900,000.00 notional at strike 1.0493
+  This replaces original trades:
+    - 5,490,000.00 at strike 1.0007
+    - 870,000.00 at strike 1.0017
+    - 4,930,000.00 at strike 1.0023
+    - 1,710,000.00 at strike 1.0030
+    - 390,000.00 at strike 1.0036
+    - 610,000.00 at strike 1.0038
+    - 1,640,000.00 at strike 1.0069
+    - 770,000.00 at strike 1.0081
+    - 2,590,000.00 at strike 1.0118
+    - 2,500,000.00 at strike 1.0132
+    - 1,210,000.00 at strike 1.0152
+    - 490,000.00 at strike 1.0224
+    - 2,090,000.00 at strike 1.0309
+    - 870,000.00 at strike 1.0319
+    - 4,110,000.00 at strike 1.0326
+    - 5,390,000.00 at strike 1.0346
+    - 1,290,000.00 at strike 1.0347
+    - 340,000.00 at strike 1.0360
+    - 350,000.00 at strike 1.0365
+    - 1,860,000.00 at strike 1.0394
+    - 12,170,000.00 at strike 1.0426
+    - 4,860,000.00 at strike 1.0441
+    - 1,670,000.00 at strike 1.0451
+    - 980,000.00 at strike 1.0473
+    - 500,000.00 at strike 1.0490
+    - 2,970,000.00 at strike 1.0520
+    - 1,100,000.00 at strike 1.0540
+    - 1,290,000.00 at strike 1.0611
+    - 3,120,000.00 at strike 1.0648
+    - 680,000.00 at strike 1.0671
+    - 680,000.00 at strike 1.0671
+    - 1,510,000.00 at strike 1.0678
+    - 990,000.00 at strike 1.0712
+    - 1,610,000.00 at strike 1.0728
+    - 640,000.00 at strike 1.0733
+    - 360,000.00 at strike 1.0756
+    - 9,040,000.00 at strike 1.0770
+    - 1,650,000.00 at strike 1.0792
+    - 3,380,000.00 at strike 1.0799
+    - 540,000.00 at strike 1.0826
+    - 3,410,000.00 at strike 1.0858
+    - 420,000.00 at strike 1.0865
+    - 640,000.00 at strike 1.0897
+    - 3,240,000.00 at strike 1.0922
+    - 680,000.00 at strike 1.0941
+    - 2,470,000.00 at strike 1.0959
+    - 470,000.00 at strike 1.0963
+    - 390,000.00 at strike 1.0969
+    - 4,430,000.00 at strike 1.0990
+
+================================================================================

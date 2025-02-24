@@ -1,0 +1,29 @@
+Column Definitions for package-products.csv
+==================================================
+
+Column Name          | Description
+------------------------------------------------------------
+original_trades      | Number of individual option trades before grouping
+grouped_trades       | Number of consolidated trades after grouping
+original_cost        | Total transaction cost (USD) if executing all trades individually
+grouped_cost         | Total transaction cost (USD) after grouping trades
+savings              | Absolute cost reduction (USD) from grouping
+savings_percentage   | Percentage cost reduction (%) from grouping
+set_id               | Identifier for the option set (from input data)
+max_distance         | Maximum allowed distance between strikes for grouping
+                     | (None = no restriction on distance)
+cost_model           | Transaction cost model used:
+                     |   - simple: Tiered model (0.06% ≤$1M, 0.03% >$1M)
+                     |   - complex: Logarithmic model ((11-0.5*ln(notional))/10000)
+
+
+Analysis Details:
+--------------------
+This analysis examines how grouping options at different strike prices
+affects execution costs. The max_distance parameter controls risk by
+limiting how far the grouped strike can be from original strikes.
+
+Key Metrics:
+- Trade reduction: Compare original_trades vs grouped_trades
+- Cost efficiency: Examine savings_percentage across different parameters
+- Risk vs reward: Higher max_distance allows more grouping but increases basis risk
