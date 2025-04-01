@@ -6,7 +6,7 @@
 
 """
 File name: 
-Author: Lana A. Cartailler (use-your-private-github-email@github.com)
+Author: Lana A. Cartailler
 Created: February 24, 2025
 Version: 1.0
 Description: This program implements an options package optimization and grouping 
